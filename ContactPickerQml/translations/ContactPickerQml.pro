@@ -1,1 +1,0 @@
-include (../ContactPickerQml.pro)
